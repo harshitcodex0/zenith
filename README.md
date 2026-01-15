@@ -1,0 +1,2 @@
+# zenith
+An AI-editor
